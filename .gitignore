@@ -3,6 +3,7 @@ Properties
 Resources
 Assets
 obj
+packages
 *.sln
 *.userprefs
 *.csproj

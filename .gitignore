@@ -1,0 +1,8 @@
+bin
+Properties
+Resources
+Assets
+obj
+*.sln
+*.userprefs
+*.csproj
